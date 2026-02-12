@@ -11,3 +11,5 @@ This repository contains custom sensors that can be used with the PRTG Sensor Hu
 Sensors are organized into the following categories:
 - **Network** - Network-related sensors
 - **Other** - Additional sensors for various use cases
+
+Additional categories will be added as sensors are added to sensor hub. 
